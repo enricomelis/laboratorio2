@@ -6,7 +6,7 @@ SRCS = main.c
 
 # Compiler and flags
 CC = gcc
-CFLAGS = -Wall -Wextra -std=c11 -g3
+CFLAGS = -Wall -Wextra -std=c11 -g
 
 .PHONY: all clean
 
